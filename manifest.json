@@ -1,0 +1,24 @@
+{
+  "site": "https://politicianwatch.grokforum.site",
+  "status": "draft",
+  "build_id": "B20261119T060705Z",
+  "generated_at_sast": "2026-11-19T08:07:05+02:00",
+  "commit": "82780dbc4ad0d3e26c447682cd6f4f64e49f9ebf",
+  "profiles": 0,
+  "pages": [
+    "404.html",
+    "index.html",
+    "privacy/index.html"
+  ],
+  "files": {
+    "404.html": "9ef072b6ba35ed5f2aaedbe279c35da4d846fd10656c1f53e365f69acf65c6d4",
+    "CNAME": "dd93d40916fba6a9923c19503027236a532fdcda05d8bcef9af76ac65815d8ab",
+    "README.md": "01d580317755327a1ddd3716b6215503506a91feb23031674f99e1cb2c6563c2",
+    "_config.yml": "7dbd70557867bab3f761e685a10c9fd285824ccba63a661879b9163c92a5d483",
+    "assets/site.css": "ff6c37a4826d9893931490dec694fd70f48e9265c1d77cf7dd7424f20db089a4",
+    "favicon.svg": "5ef1e4911f2dffc41f6235d5510bd25f52d856373d67971215e3ab0abb0d23fb",
+    "index.html": "ea90f038b5195e504cce3c045e6c81d378d2c8bdf54f7393a60fbcbb0aacab56",
+    "privacy/index.html": "7d205fef779f996527cb397ae0518aabc995242415ac0bd0aa94b0e9e660934c",
+    "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+  }
+}
