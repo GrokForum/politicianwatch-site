@@ -11,8 +11,8 @@ table{border-collapse:collapse;width:100%;font-size:.95rem}th,td{text-align:left
 .claims{list-style:none;padding:0}.claim{margin:.55rem 0;padding:.45rem .6rem;border-left:4px solid #c9d3dd;background:#fafbfc}
 .claim .src{font-size:.88rem;color:#3d4a57}
 .label{display:inline-block;font-size:.78rem;font-weight:600;padding:.05rem .45rem;border-radius:.6rem;border:1px solid currentColor;margin-right:.3rem}
-.label-Confirmed{color:#0a6b3a}.label-Reported{color:#174f9c}.label-Alleged{color:#9a3b00}.label-Disputed{color:#6b2c91}.label-Unknown{color:#56606b}
+.label-Confirmed{color:#0a6b3a}.label-Reported{color:#174f9c}.label-Alleged{color:#9a3b00}.label-Disputed{color:#6b2c91}.label-Unknown{color:#56606b}.label-Withheld-POPIA{color:#7a3a14}
 .adverse{border-left-color:#9a3b00}.ror{font-weight:600}
 .note{color:#3d4a57;font-size:.92rem}
 @media (prefers-color-scheme:dark){body{color:#e6edf3;background:#0f161d}main{background:#16202a}a{color:#8cc4ff}footer{color:#9aa7b4}.claim{background:#1b2631;border-left-color:#3a4a5a}.claim .src,.note{color:#b4c0cc}th,td{border-bottom-color:#2a3846}
-.label-Confirmed{color:#5fd39a}.label-Reported{color:#8cc4ff}.label-Alleged{color:#ffaa66}.label-Disputed{color:#d6a2ff}.label-Unknown{color:#a9b4bf}}
+.label-Confirmed{color:#5fd39a}.label-Reported{color:#8cc4ff}.label-Alleged{color:#ffaa66}.label-Disputed{color:#d6a2ff}.label-Unknown{color:#a9b4bf}.label-Withheld-POPIA{color:#e0a878}}
